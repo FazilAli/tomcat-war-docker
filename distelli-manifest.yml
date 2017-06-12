@@ -1,4 +1,4 @@
-fazilc/tomcat-war-docker22:
+fazilc/tomcat-war-docker:
 
   Env:
     # Set the below enviornment variables for your environment
